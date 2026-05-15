@@ -7,6 +7,10 @@
   <br/>
   <br/>
   <h1>GhostRoute Terminal</h1>
+  <p>
+    <a href="https://groute-rho.vercel.app/"><strong>🌐 Live Frontend</strong></a> &nbsp;|&nbsp;
+    <a href="https://groute-2.onrender.com/api/system/health"><strong>⚡ API</strong></a>
+  </p>
   <p><strong>Private Cross-Chain Liquidity Execution Terminal</strong></p>
   <p>Institutional-grade execution infrastructure for MEV-protected cross-chain routing,<br/>
   order fragmentation, route optimization, and on-chain settlement verification.</p>
