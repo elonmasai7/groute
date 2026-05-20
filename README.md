@@ -8,7 +8,7 @@
   <br/>
   <h1>GhostRoute Terminal</h1>
   <p>
-    <a href="https://groute-rho.vercel.app/"><strong>🌐 Live Frontend</strong></a> &nbsp;|&nbsp;
+    <a href="https://groute-rho.vercel.app/"><strong> Live Frontend</strong></a> &nbsp;|&nbsp;
     <a href="https://groute-2.onrender.com/api/system/health"><strong>⚡ API</strong></a>
   </p>
   <p><strong>Private Cross-Chain Liquidity Execution Terminal</strong></p>
